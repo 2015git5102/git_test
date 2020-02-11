@@ -9,4 +9,9 @@ public class GitTest {
         System.out.println("Hello Git ..............");
         System.out.println("Hello Git ..............");
     }
+    public void test(){
+        System.out.println("修改的内容");
+        System.out.println("修改的内容");
+
+    }
 }
