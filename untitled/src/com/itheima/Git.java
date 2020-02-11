@@ -7,5 +7,10 @@ public class Git {
         System.out.println("dddddddddddddddddddddd");
         System.out.println("dddddddddddddddddddddd");
     }
+    public void test(){
+        System.out.println("cccccccccccc");
+        System.out.println("cccccccccccc");
+        System.out.println("cccccccccccc");
+    }
 
 }
