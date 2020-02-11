@@ -8,9 +8,9 @@ public class Git {
         System.out.println("dddddddddddddddddddddd");
     }
     public void test(){
-        System.out.println("cccccccccccc");
-        System.out.println("cccccccccccc");
-        System.out.println("cccccccccccc");
+        System.out.println("aaaaaaaaaaaa");
+        System.out.println("aaaaaaaaaaaa");
+        System.out.println("aaaaaaaaaaaa");
     }
 
 }
